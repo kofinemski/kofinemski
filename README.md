@@ -33,5 +33,5 @@
 ### 📫 Messaging
 * 🆔 **Discord:** Kofinemski#4925
 ### 🎮 Games
-* 🆔 **Epic Games:** Azqmakki
+* 🆔 **Epic Games:** Kofinemski
 * 🆔 **Steam:** Kofinemski
