@@ -35,6 +35,7 @@
 ## 🔍 Contact
 ### 📫 Messaging
 * 🆔 **Discord:** Kofinemski#4925
+* 🆔 **Guilded:** https://www.guilded.gg/profile/d8Vvb5BA
 ### 🎮 Games
 * 🆔 **Epic Games:** Kofinemski
 * 🆔 **Steam:** Kofinemski
