@@ -1,16 +1,37 @@
-### Hi there 👋
+## ⭐️ About Me
+* 📝 **Name:** Kofinemski
+* 📆 **Age:** 14
+* 🇩🇪 **Nationality:** German
 
-<!--
-**kofinemski/kofinemski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stuff (what I use)
+* 🧱 **Languages:** Bash, Batch, C#, C++, Go, PowerShell, Python
+* 💻 **Terminals:** Git, GNU Bash, PowerShell, Windows Terminal
+* 💡 **Prototyping Platforms:** Arduino, Raspberry Pi
+* 👩‍💻 **IDEs:** Android Studio, Notepad++, VSCode, Visual Studio, Xcode
+* 💾 **OS:** Android, Debian, macOS, Windows
 
-Here are some ideas to get you started:
+## 😯 My Setup
+### 🖥 Desktop
+* **Chipset:** Intel B460 (Comet Lake PCH-V)
+* **CPU:** Intel Core i5-10400F
+* **GPU:** Zotac GTX 1650 SUPER
+* **Motherboard:** MEDION B460H6-EM
+* **OS:** Microsoft Windows 10 Home (x64)
+* **RAM:** 16GB DDR4 SDRAM
+* **ROM:** 512GB + 1TB
+* **System Manufacturer:** MEDION
+* **System Model:** P66084
+### 📱 Main Phone
+* **Battery**: 3400 mAh, Li-Ion.
+* **Model:** Huawei P smart 2020
+* **RAM:** 8GB
+* **ROM:** 128GB + 256GB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🔍 Contact
+### 📫 Messaging
+* 🆔 **Discord:** Kofinemski#4925
+### 🎮 Games
+* 🆔 **Epic Games:** Azqmakki
+* 🆔 **Steam:** Kofinemski
