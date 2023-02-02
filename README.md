@@ -23,8 +23,11 @@
 * **System Model:** P66084
 ### 📱 Main Phone
 * **Battery**: 3400 mAh, Li-Ion.
+* **CPU:** HiSilicon KIRIN710
+* **Manufacturer:** Huawei
 * **Model:** Huawei P smart 2020
-* **RAM:** 8GB
+* **OS:** Android 10 - Q
+* **RAM:** 4GB
 * **ROM:** 128GB + 256GB
 
 
